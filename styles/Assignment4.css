@@ -4,3 +4,5 @@ section.Area2{background-color: #00CCCC; visibility: hidden;}
 #Monster{padding: 10pt;  width: 30%; height: 30%}
 #Smash{padding: 10pt;  width: 30%; height: 30%}
 #Zelda{padding: 10pt;  width: 30%; height: 30%}
+footer{position: fixed; font-style: italic;}
+
